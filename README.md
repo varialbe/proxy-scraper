@@ -27,14 +27,14 @@ The script is straightforward to use and can be executed as a standalone Python 
 
 First, clone the repository to your local machine:
 ```bash
-git clone https://github.com/varialbe/proxy-scraper.py
-cd proxy-scraper-script
+git clone https://github.com/varialbe/vari-scrape
+cd vari-scrape
 ```
 
 Then, install the required packages using pip:
 
 ```bash
-pip install requests beautifulsoup4 colorama
+pip install requests beautifulsoup4 colorama fade
 ```
 
 ### Running the Script
@@ -42,7 +42,7 @@ pip install requests beautifulsoup4 colorama
 Execute the script with Python:
 
 ```bash
-python proxy_scraper.py
+python VariScrape.py
 ```
 
 ## Disclaimer
