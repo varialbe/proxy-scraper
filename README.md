@@ -1,7 +1,7 @@
 ![Screenshot_3](https://github.com/varialbe/proxy-scraper/assets/142154418/a141ac2c-d573-4c7a-8d50-3c5d3ac2b61b)
 # Proxy Scraper Script
 
-This Python script is designed to scrape and combine proxy lists from multiple sources. It's useful for developers and researchers who need a reliable list of proxies for web scraping, anonymity, or bypassing geo-restrictions.
+This Python script is designed to scrape and combine proxy lists from multiple sources. It's useful for developers and researchers who need a reliable list of proxies for web scraping, anonymity, or bypassing geo-restrictions. (Statistics show: 0.32% to 4% success rate)
 
 ## Features
 
